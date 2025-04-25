@@ -10,9 +10,9 @@ I'm an Engineering Manager.  I'm deeply committed to two core principles: delive
 I've kept my curiosity in development and a strong believer in continuous learning.
 
 My Development Skills:
-😄 I like frontend development
-🌱 I like backend development
-🤖 I'm into learning AI: Generative AI and Agentic AI
-⚡ I'm love applying best practices in development.
+1. 😄 I like frontend development
+2. 🌱 I like backend development
+3. 🤖 I'm into learning AI: Generative AI and Agentic AI
+4. ⚡ I'm love applying best practices in development.
 
 
