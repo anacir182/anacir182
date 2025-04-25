@@ -1,12 +1,8 @@
 ## Hi there 👋 my name is John.
 
 I'm an Engineering Manager.  I'm deeply committed to two core principles: delivering exceptional products and cultivating talent. 
-But 
 
-<!--
-**anacir182/anacir182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Certifications:
+✨ Certifications:
 1. Scrum Master Certified
 2. Six Sigma Certified
 3. Magento Dev 1 Plus Certified
