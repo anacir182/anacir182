@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is John.
 
-I'm an Engineering Manager.  I'm deeply committed to two core principles: delivering exceptional products and cultivating talent. 
+I'm an Engineering Manager.  I'm deeply committed to two core principles -- delivering exceptional products and cultivating talent. 
 
 ✨ Certifications:
 1. Scrum Master Certified
